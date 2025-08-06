@@ -1,0 +1,16 @@
+# Jeff Yan Threads
+
+- [Market participants (2023-02-17)](https://twitter-thread.com/t/1626665933568905216)
+- [Crypto HFT case study (2023-02-28)](https://threadreaderapp.com/thread/1630593056612446208.html)
+- [Optimizing latency on OKX (2023-03-05)](https://threadreaderapp.com/thread/1632477079962009600.html)
+- [Exploiting market makers via RFQ (2023-03-08)](https://twitter-thread.com/t/1633517984244469760)
+- [Making vs taking (2023-03-09)](https://threadreaderapp.com/thread/1634021048961363969.html)
+- [Optimizing latency on Coinbase (2023-03-12)](https://threadreaderapp.com/thread/1634915329297244161.html)
+- [Mental model for markets - viscous fluid (2023-03-16)](https://twitter-thread.com/t/1636350311974715393)
+- [For quants just starting out, what specific strategies should you run? (2023-03-20)](https://threadreaderapp.com/thread/1637986806749872128.html)
+- [Medium frequency strategy (2023-03-23)](https://threadreaderapp.com/thread/1639081513630461952.html)
+- [Protecting your HFT strategy from spoofers (2023-03-26)](https://threadreaderapp.com/thread/1640008280457248768.html)
+- [Selecting where to trade (2023-03-30)](https://threadreaderapp.com/thread/1641582947848589314.html)
+- [Market making for new listings (2023-04-03)](https://threadreaderapp.com/thread/1642983383105146881.html)
+- [Bitget exposé (2023-04-05)](https://threadreaderapp.com/thread/1643610595848261632.html)
+- [HFT latency analysis (2023-04-22)](https://threadreaderapp.com/thread/1649770610711580672.html)
