@@ -1,5 +1,7 @@
 # @OneHotCode1 Threads
 
+- [Is derivatives trading a zero-sum game? (2025-01-10)](https://twitter-thread.com/t/1877957089500254656)
+- [Volatility relative value risk management (2025-02-01)](https://twitter-thread.com/t/1885760901300560141)
 - [Gamma-vanna-volga modeling in FX (2025-02-09)](https://twitter-thread.com/t/1888533371300577618)
 - [FX derivatives blowup story (2025-02-15) ](https://twitter-thread.com/t/1890686484878864422)
 - [Systematic vol RV (2025-02-22)](https://twitter-thread.com/t/1893439096552358210)
@@ -9,4 +11,7 @@
 - [Effect of exotic structures on vol surface (2025-03-16)](https://twitter-thread.com/t/1901215244833210532)
 - [How Citi FX PB lost $180M over one client (2025-03-16)](https://twitter-thread.com/t/1901267484843380750)
 - [How not to run a vol book (2025-03-22)](https://twitter-thread.com/t/1903354746036953521)
+- [Big USDTWD 1-day move (2025-05-02)](https://twitter-thread.com/t/1918352412370207006)
+- [HKD breaking vol surface models (2025-05-25)](https://twitter-thread.com/t/1926678300329423133)
 - [Skew/smile delta (2025-07-27)](https://twitter-thread.com/t/1949393458122150312)
+- [Corporate hedging flows affecting vol (2025-08-10)](https://twitter-thread.com/t/1954437753849983380)
