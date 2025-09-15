@@ -15,3 +15,4 @@
 - [HKD breaking vol surface models (2025-05-25)](https://twitter-thread.com/t/1926678300329423133)
 - [Skew/smile delta (2025-07-27)](https://twitter-thread.com/t/1949393458122150312)
 - [Corporate hedging flows affecting vol (2025-08-10)](https://twitter-thread.com/t/1954437753849983380)
+- [Why FX vol swaps trade more than var swaps (2025-08-24)](https://twitter-thread.com/t/1959685481773600841)
