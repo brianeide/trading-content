@@ -16,3 +16,5 @@
 - [Skew/smile delta (2025-07-27)](https://twitter-thread.com/t/1949393458122150312)
 - [Corporate hedging flows affecting vol (2025-08-10)](https://twitter-thread.com/t/1954437753849983380)
 - [Why FX vol swaps trade more than var swaps (2025-08-24)](https://twitter-thread.com/t/1959685481773600841)
+- [Vol modeling 101 (2025-09-21)](https://twitter-thread.com/t/1969719443988058267)
+- [Systematic strategies are often short gamma/tails (2025-10-14)](https://twitter-thread.com/t/1978322570337304712)
