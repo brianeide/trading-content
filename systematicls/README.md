@@ -1,6 +1,7 @@
 # systematicls
 
 https://x.com/systematicls
+https://www.systematiclongshort.com
 
 ## Threads
 

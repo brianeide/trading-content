@@ -1,6 +1,7 @@
 # Scott Phillips
 
 https://x.com/ScottPh77711570
+https://systematiccrypto.substack.com
 
 ## Threads
 

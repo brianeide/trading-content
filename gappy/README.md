@@ -1,6 +1,7 @@
 # Giuseppe Paleologo
 
 https://x.com/__paleologo
+https://linktr.ee/paleologo
 
 ## Threads
 
@@ -14,3 +15,4 @@ https://x.com/__paleologo
 - https://open.spotify.com/episode/3rybWjH8xX4VSthbebJ1ld
 - https://open.spotify.com/episode/6NbQI7GFMUU0e8x1njTcP8
 - https://open.spotify.com/episode/6ejXanMDcQ5ROZLGSGy66X
+- https://open.spotify.com/episode/1Qxvql7cPvjGLjjUdmVaoy

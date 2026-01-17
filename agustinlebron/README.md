@@ -1,6 +1,8 @@
 # Agustin Lebron
 
 https://x.com/AgustinLebron3
+https://reducibleerrors.com
+https://www.amazon.com/Laws-Trading-Traders-Decision-Making-Everyone/dp/1119574218
 
 ## Threads
 

@@ -1,5 +1,7 @@
 # Kris Sidial
 
+https://x.com/Ksidiii
+
 ## Threads
 
 - [Identifying institutional order flow (2021-04-08)](https://twitter-thread.com/t/1380324327950843904)

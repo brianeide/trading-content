@@ -1,4 +1,8 @@
-# Kim Benni Threads
+# Kim Benni
+
+https://x.com/BenniKim
+
+## Threads
 
 - [Trading lore - Christmas special (2025-11-25)](https://twitter-thread.com/t/1993374248023241083)
 - [Trading lore - Somalia, sugar, and spies (2025-11-26)](https://twitter-thread.com/t/1993682859958153388)
