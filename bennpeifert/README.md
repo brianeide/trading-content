@@ -1,6 +1,9 @@
-# Benn Eifert Threads
+# Benn Eifert
 
+https://x.com/bennpeifert
 https://threadreaderapp.com/user/bennpeifert
+
+## Threads
 
 - [VIX and VIX Futures/Options (2020-02-14)](2020-02-14.md)
 - [Reading recommendations (2024-03-14)](https://twitter-thread.com/t/1238823808082907136)
@@ -78,3 +81,24 @@ https://threadreaderapp.com/user/bennpeifert
 - [Charts Benn likes to watch (2025-03-16)](https://twitter-thread.com/t/1901379448097886693)
 - [Covered calls / option selling mega-thread (2025-08-14)](https://twitter-thread.com/t/1955996656387940647)
 - [Put/call parity (2025-08-19)](https://twitter-thread.com/t/1957775975162474774)
+- [Skew video explainer (2025-11-23)](https://x.com/bennpeifert/status/1992612495337623993)
+- [Crypto funding arb video explainer (2025-11-23)](https://x.com/bennpeifert/status/1992739484539175419)
+- [Calendar spreads in options video explainer (2025-12-06)](https://x.com/bennpeifert/status/1997356188875522197)
+
+## Podcasts
+
+- [Flirting With Models (S2E2): Benn Eifert - Volatility Investing (2019-05-30)](https://open.spotify.com/episode/2hFNUgxmOICye9wAbfEb8t)
+- [Flirting with Models (S3E3): Dr. Benn Eifert - Bad Ideas (2020-07-06)](https://open.spotify.com/episode/3xBRY2T6whzwmO4YXzgR37)
+- [Benn Eifert On The Mania That Was Even Bigger Than Meme Stocks (2022-08-01)](https://open.spotify.com/episode/0PT4Q1eyxmEhHGG7vdlPne)
+- https://open.spotify.com/episode/2JHY16mZUSb1ot0PZAYpdx
+- https://open.spotify.com/episode/126OS14LN5g4XmreIsOnsm
+- https://open.spotify.com/episode/6yYwCq6KreKMtEi4BaWuCg
+- https://open.spotify.com/episode/7keCl5Jn5xKjK40GCLYYFe
+- https://open.spotify.com/episode/2Ckbm6lAUPpo45I8kbvbLV
+- https://open.spotify.com/episode/3ri2bklOuo00tnlYfc31D1
+- https://open.spotify.com/episode/5sYPjDACy2CVeMNiP5jolm
+- https://open.spotify.com/episode/5HLULmjAHjzu9Ql1y6FQcU
+- https://open.spotify.com/episode/5sYOQxS2aISG4aDpD3umem
+- https://open.spotify.com/episode/3dfjtJzzDcWTEZmtNNmnVn
+- https://open.spotify.com/episode/61cIWKYC7ggZTF1GaoPrZY
+- https://open.spotify.com/episode/3JtCskuMuzNQWEPTjukSK7

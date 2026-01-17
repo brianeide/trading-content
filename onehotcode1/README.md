@@ -1,9 +1,13 @@
-# @OneHotCode1 Threads
+# @OneHotCode1
+
+https://x.com/OneHotCode1
+
+## Threads
 
 - [Is derivatives trading a zero-sum game? (2025-01-10)](https://twitter-thread.com/t/1877957089500254656)
 - [Volatility relative value risk management (2025-02-01)](https://twitter-thread.com/t/1885760901300560141)
 - [Gamma-vanna-volga modeling in FX (2025-02-09)](https://twitter-thread.com/t/1888533371300577618)
-- [FX derivatives blowup story (2025-02-15) ](https://twitter-thread.com/t/1890686484878864422)
+- [FX derivatives blowup story (2025-02-15)](https://twitter-thread.com/t/1890686484878864422)
 - [Systematic vol RV (2025-02-22)](https://twitter-thread.com/t/1893439096552358210)
 - [Vol path dependency (2025-03-01)](https://twitter-thread.com/t/1895930330022101488)
 - [Options Greeks calculation (2025-03-08)](https://twitter-thread.com/t/1898447949685821446)
@@ -18,3 +22,6 @@
 - [Why FX vol swaps trade more than var swaps (2025-08-24)](https://twitter-thread.com/t/1959685481773600841)
 - [Vol modeling 101 (2025-09-21)](https://twitter-thread.com/t/1969719443988058267)
 - [Systematic strategies are often short gamma/tails (2025-10-14)](https://twitter-thread.com/t/1978322570337304712)
+- [USDTRY vol smile (2025-11-23)](https://twitter-thread.com/t/1992638151165460962)
+- [Digital options effects on vol surface (2025-11-29)](https://twitter-thread.com/t/1994723019202478416)
+- [What I learned from trading through 2025 (2026-01-01)](https://twitter-thread.com/t/2006667853349662851)

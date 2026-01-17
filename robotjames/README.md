@@ -1,0 +1,77 @@
+# James Hodges (Robot James)
+
+https://x.com/therobotjames
+https://www.robotjames.blog
+https://substack.com/@robotjames
+https://robotwealth.com/author/jameshodges
+
+## Threads
+
+- ["Hurst exponent go brrrr" - are your assumptions about persistence reasonable? (2020-12-01)](https://twitter-thread.com/t/1333941851435331584)
+- [Three types of systematic trading strategy that can "work” (2021-03-09)](https://twitter-thread.com/t/1359349194230693889)
+- [Risk and Reward: A Quant Tragedy (2021-03-19)](https://twitter-thread.com/t/1373108179786031113)
+- [Traders that make it (2021-04-18)](https://twitter-thread.com/t/1383954970341380100)
+- [Getting serious about making money trading (2021-04-19)](https://twitter-thread.com/t/1384361563558010882)
+- [Position sizing and volatility targeting (2021-04-26)](https://twitter-thread.com/t/1386868829146386432)
+- [Why do vix futures trade at a different price to the vix index? (2021-09-14)](https://twitter-thread.com/t/1437922467801034754)
+- [Steal ideas, not implementation (2021-09-20)](https://twitter-thread.com/t/1440098707240734724)
+- [Option Pricing for Degenerate Gamblers (2021-10-03)](https://twitter-thread.com/t/1444832714922758148)
+- [Playing the easy games at the right time at scale (2021-10-07)](https://twitter-thread.com/t/1446265278573076480)
+- [What you hope a stop-loss rule does vs what it actually does (2021-10-10)](https://x.com/therobotjames/status/1447405357601472517)
+- [Should you buy new highs (2021-11-14)](https://twitter-thread.com/t/1459991374854438912)
+- [Ask questions now? Or ask questions later? (2021-11-16)](https://twitter-thread.com/t/1460724469933035520)
+- [Execution performance (2021-12-02)](https://twitter-thread.com/t/1466601054728982534)
+- [Price changes and market makers (2022-02-08)](https://twitter-thread.com/t/1491206857519939584)
+- [On the minimization of cope and not being one of those old guys that blames their shitty pnl on the fed (2022-03-03)](https://twitter-thread.com/t/1499124709019234305)
+- [Real problems vs LARP problems in automated quant trading (2022-03-20)](https://twitter-thread.com/t/1505655238090694656)
+- [Put on trades you think look like arbs (2022-04-05)](https://twitter-thread.com/t/1511481624265129985)
+- [Non-stationarity and adverse selection (2022-04-11)](https://twitter-thread.com/t/1513851852953354240)
+- [James, I want to start a crypto algotrading business. What advice do you have? (2022-05-03)](https://twitter-thread.com/t/1521354061135892480)
+- [Trading is incredibly hard (2022-05-10)](https://twitter-thread.com/t/1524163045077168128)
+- [Sizing and risk management (2022-05-11)](https://twitter-thread.com/t/1524507860037943296)
+- [Being prepared to take on risk can be a competitive advantage (2022-05-18)](https://twitter-thread.com/t/1527431782546964480)
+- [Not playing marginal games (2022-05-25)](https://twitter-thread.com/t/1529468379312328704)
+- [You can make the game almost "win-win" if you choose where to play (2022-06-10)](https://twitter-thread.com/t/1535366609723723781)
+- [This is trading (2022-06-21)](https://twitter-thread.com/t/1539441220006850560)
+- [Being happy to eat what you're fed (2022-07-02)](https://www.robotjames.blog/posts/being-happy-to-eat-what-youre-fed/)
+- [Junior degenerate gambler interview question (2022-07-10)](https://twitter-thread.com/t/1546358404322820098)
+- [Anatomy of a stat arb trading strategy (2022-08-15)](https://twitter-thread.com/t/1559311779154771971)
+- [Do useful things that kinda suck (2022-10-14)](https://twitter-thread.com/t/1581096463144464384)
+- [Funding rate manipulation shenanigans on FTX (2022-12-17)](https://twitter-thread.com/t/1604318047933988866)
+- [Alpha decay and puking quickly (2023-01-04)](https://twitter-thread.com/t/1610831311631155200)
+- [Scaling is hard (2023-01-15)](https://twitter-thread.com/t/1614777097918246914)
+- [Randomness and efficiency (2023-01-30)](https://twitter-thread.com/t/1619992942319644675)
+- [Trading costs (2023-02-01)](https://twitter-thread.com/t/1620986655669911552)
+- [Are you right or are you lucky? (2023-03-16)](https://twitter-thread.com/t/1636525253177536512)
+- [How to make money trading as a random (2023-03-21)](https://twitter-thread.com/t/1638292311435034624)
+- [Statistical inference in adaptive markets (2023-05-07)](https://twitter-thread.com/t/1655337698289385472)
+- [Playing where your size is size (2023-05-10)](https://twitter-thread.com/t/1656417580440227840)
+- [Simple and log returns (2023-05-17)](https://twitter-thread.com/t/1658957736946860033)
+- [Simulations in illiquid markets are mostly useless (2023-05-28)](https://twitter-thread.com/t/1662939624053030912)
+- [Grunt work is important (2023-06-19)](https://twitter-thread.com/t/1671015119575461889)
+- [Measuring (2023-06-27)](https://twitter-thread.com/t/1673615274279579650)
+- [Don't major in minor shit (2023-06-29)](https://twitter-thread.com/t/1674527108423647232)
+- [The intuition of log returns (2023-07-09)](https://twitter-thread.com/t/1678259655842344960)
+- [Quant signal trade-offs in the real world (2023-07-10)](https://twitter-thread.com/t/1678290394310934529)
+- [Best place to get trading ideas (2023-08-27)](https://twitter-thread.com/t/1695928641337827568)
+- [Keep your trading process simple and robust (2023-09-07)](https://twitter-thread.com/t/1699949041881420213)
+- [On finding an angle and whacking it (2023-10-19)](https://twitter-thread.com/t/1715203253959561639)
+- [Stop trying to beat Djokovic at tennis (2023-10-25)](https://twitter-thread.com/t/1717053798739546221)
+- [Something stupid is happening all the time (2023-11-28)](https://twitter-thread.com/t/1729412426943394223)
+- [Options are slippery (2023-12-12)](https://twitter-thread.com/t/1734679998676832428)
+- [Be prepared to trade to keep your risk in line (2024-02-18)](https://twitter-thread.com/t/1759368977594376351)
+- [Risk exposures are never "safe" (2024-03-15)](https://twitter-thread.com/t/1768814365422289070)
+- [Simple five-minute analysis (2024-04-16)](https://twitter-thread.com/t/1780180135762895199)
+- [How NOT to look for trading edge (2024-04-21)](https://twitter-thread.com/t/1782212452710797548)
+- [The sources of returns that suck are the most reliable (2024-04-22)](https://twitter-thread.com/t/1782635102197194844)
+- [People new to markets underestimate how noisy it is (2024-04-29)](https://twitter-thread.com/t/1785134522830614733)
+- [Analyzing Andy Constan's SPX top call (2024-05-16)](https://twitter-thread.com/t/1791282973540745706)
+- [All active ETFs are trash (2024-09-29)](https://twitter-thread.com/t/1840584238489628672)
+- [Nearly every good repeatable trading idea looks like this (2025-05-21)](https://twitter-thread.com/t/1925148805953204253)
+- [Do simple dumb things rather than sophisticated things badly (2025-11-26)](https://twitter-thread.com/t/1993790482116411864)
+
+## Podcasts
+
+- https://open.spotify.com/episode/0D9Ekce4wLhrZMYpIGKxbM
+- https://open.spotify.com/episode/6HD69SGPwhOgtUR7Zf2XTq
+- https://open.spotify.com/episode/3OLzvtHrL9gzbRKIlnWEXf

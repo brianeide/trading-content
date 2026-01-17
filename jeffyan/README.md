@@ -1,4 +1,8 @@
-# Jeff Yan Threads
+# Jeff Yan
+
+https://x.com/chameleon_jeff
+
+## Threads
 
 - [Market participants (2023-02-17)](https://twitter-thread.com/t/1626665933568905216)
 - [Crypto HFT case study (2023-02-28)](https://twitter-thread.com/t/1630593056612446208)
@@ -14,3 +18,7 @@
 - [Market making for new listings (2023-04-03)](https://twitter-thread.com/t/1642983383105146881)
 - [Bitget exposé (2023-04-05)](https://twitter-thread.com/t/1643610595848261632)
 - [HFT latency analysis (2023-04-22)](https://twitter-thread.com/t/1649770610711580672)
+
+## Podcasts
+
+- https://open.spotify.com/episode/4SQVVAFF1ylRo4jcqj7xto
