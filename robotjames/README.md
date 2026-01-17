@@ -75,6 +75,6 @@ https://robotwealth.com/author/jameshodges
 
 ## Podcasts
 
-- https://open.spotify.com/episode/0D9Ekce4wLhrZMYpIGKxbM
-- https://open.spotify.com/episode/6HD69SGPwhOgtUR7Zf2XTq
-- https://open.spotify.com/episode/3OLzvtHrL9gzbRKIlnWEXf
+- [Quant-Adjacent: EP 1 ft. @TheRobotJames & @0xLightcycle (2021-12-15)](https://open.spotify.com/episode/0D9Ekce4wLhrZMYpIGKxbM)
+- [Quant-Adjacent: EP 2 ft. @TheRobotJames & @MattoMattik (2022-08-19)](https://open.spotify.com/episode/6HD69SGPwhOgtUR7Zf2XTq)
+- [Quant-Adjacent: EP 3 ft. @TheRobotJames, @ThogardPvP & @Quant_Arb (2022-10-27)](https://open.spotify.com/episode/3OLzvtHrL9gzbRKIlnWEXf)

@@ -21,4 +21,4 @@ https://x.com/chameleon_jeff
 
 ## Podcasts
 
-- https://open.spotify.com/episode/4SQVVAFF1ylRo4jcqj7xto
+- [Flirting with Models (S6E2): Jeff Yan - High Frequency Crypto Market Making & the Hyperliquid Exchange (2023-05-08)](https://open.spotify.com/episode/4SQVVAFF1ylRo4jcqj7xto)

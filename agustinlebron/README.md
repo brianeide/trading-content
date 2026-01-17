@@ -22,14 +22,11 @@ https://www.amazon.com/Laws-Trading-Traders-Decision-Making-Everyone/dp/11195742
 - [Size-weighted mid (2025-12-04)](https://twitter-thread.com/t/1996609701950218467)
 
 ## Podcasts
-
-- https://open.spotify.com/episode/14UmLUzp95KE9Q0LLxL5qS
-- https://open.spotify.com/episode/17ExYBwrG6sucEEyQ3O1pH
-- https://open.spotify.com/episode/1In5cu9tVKSYdv7s5wsfSX
-- https://open.spotify.com/episode/1W94QY0DhqKwoivFwaXNDa
-- https://open.spotify.com/episode/1DZPueGMRTXrcracPDZDeo
-- https://open.spotify.com/episode/1NWBIQHAbvOIYwcqwzLjmr
-- https://open.spotify.com/episode/5eB4ta5vNb2v9f6JMRycOx
-- https://open.spotify.com/episode/1DBAWGOBsWNdL8BQSxa1Fc
-- https://open.spotify.com/episode/6IuusvW7Tdr6EF4qPPPdBz
-- https://open.spotify.com/episode/7swMvI0pyFALXvb6JDISVj
+- [Better System Trader #163: The Laws of Trading - Agustin Lebron (2019-06-01)](https://open.spotify.com/episode/1W94QY0DhqKwoivFwaXNDa)
+- [The Good Life with Michele Lamoureux: Agustin Lebron: A Trader's Guide to Better Decision-Making (2019-06-19)](https://open.spotify.com/episode/1NWBIQHAbvOIYwcqwzLjmr)
+- [Financial Detox Show: Mastering the Laws of Trading with Agustin Lebron (2019-06-27)](https://open.spotify.com/episode/1DBAWGOBsWNdL8BQSxa1Fc)
+- [Financial Detox Show: Private Investments, Are They For You? With Special Guest Agustin Lebron (2019-12-23)](https://open.spotify.com/episode/6IuusvW7Tdr6EF4qPPPdBz)
+- [Dwarkesh Podcast: Agustin Lebron - Trading, Crypto, and Adverse Selection (2022-06-23)](https://open.spotify.com/episode/1In5cu9tVKSYdv7s5wsfSX)
+- [The Derivative: Using the Laws of Trading to find our edge with Agustin Lebron (2022-08-11)](https://open.spotify.com/episode/17ExYBwrG6sucEEyQ3O1pH)
+- [Odds on Open: Ex-Jane Street Trader: How to Find "Edge" in the Markets and Real Life (2025-07-15)](https://open.spotify.com/episode/1DZPueGMRTXrcracPDZDeo)
+- [The Outlier Trading Podcast: Agustin Lebron: Jane Street Trader on Why You Should Trade (2025-12-10)](https://open.spotify.com/episode/14UmLUzp95KE9Q0LLxL5qS)

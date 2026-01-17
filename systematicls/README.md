@@ -44,3 +44,8 @@ https://www.systematiclongshort.com
 - [What you need to know to get from QR to systematic PM (2025-12-04)](https://twitter-thread.com/t/1996799798956147055)
 - [Numerai Cheatsheet 2025 (2025-12-05)](https://archive.ph/ajJXP)
 - [An Economic Analysis Of Numerai (2025-12-06)](https://archive.ph/fCGYr)
+- [All The Forms A Signal Can Take (2025-12-20)](https://archive.ph/6KQo9)
+- [Why People Are (Mostly) Wrong About Hedge Fund Returns (2025-12-22)](https://archive.ph/8stdy)
+- [Introduction To Forecast Signals (2026-01-04)](https://archive.ph/YRjtv)
+- [The Woes Of A (Portfolio) Manager (2026-01-06)](https://archive.ph/g7UiH)
+- [The Woes Of A (Quant) Researcher (2026-01-15)](https://archive.ph/OL2f9)

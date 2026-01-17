@@ -4,7 +4,7 @@ This repository is a constant work in progress. There may be errors and poorly l
 
 - [@absreturnchaser](absreturnchaser/README.md)
 - [Agustin Lebron (@AgustinLebron3)](agustinlebron/README.md)
-- [@bennpeifert](bennpeifert/README.md)
+- [Benn Eifert (@bennpeifert)](bennpeifert/README.md)
 - [Giuseppe Paleologo aka Gappy (@__paleologo)](gappy/README.md)
 - [James Hodges aka Robot James (@therobotjames)](robotjames/README.md)
 - [Jeff Yan (@chameleon_jeff)](jeffyan/README.md)

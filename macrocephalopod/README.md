@@ -12,4 +12,4 @@ https://x.com/macrocephalopod
 
 ## Podcasts
 
-- https://open.spotify.com/episode/0g1uEDrk8wzxizEKDMWbeI
+- [Flirting with Models (S6E5); Macrocephalopod - Managing a Mid-Frequency Crypto Prop Desk (2023-05-29)](https://open.spotify.com/episode/0g1uEDrk8wzxizEKDMWbeI)

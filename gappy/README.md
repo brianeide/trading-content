@@ -13,7 +13,7 @@ https://linktr.ee/paleologo
 
 ## Podcasts
 
-- https://open.spotify.com/episode/3rybWjH8xX4VSthbebJ1ld
-- https://open.spotify.com/episode/6NbQI7GFMUU0e8x1njTcP8
-- https://open.spotify.com/episode/6ejXanMDcQ5ROZLGSGy66X
-- https://open.spotify.com/episode/1Qxvql7cPvjGLjjUdmVaoy
+- [Odd Lots: How to Succeed at Mutli-Strategy Hedge Funds (2024-05-20)](https://open.spotify.com/episode/3rybWjH8xX4VSthbebJ1ld)
+- [Flirting with Models (S7E11): Giuseppe Paleologo - Multi-Manager Hedge Funds & Thinking Deeply About Simple Things (2024-09-02)](https://open.spotify.com/episode/6NbQI7GFMUU0e8x1njTcP8)
+- [Odd Lots: Giuseppe Paleologo on Quant Investing at Multi-Strat Hedge Funds (2025-06-21)](https://open.spotify.com/episode/6ejXanMDcQ5ROZLGSGy66X)
+- [Money Stuff: Gappy Paleologo (2025-07-04)](https://open.spotify.com/episode/1Qxvql7cPvjGLjjUdmVaoy)

@@ -42,12 +42,13 @@ https://x.com/Ksidiii
 - [Drawing false conclusions from large options trades (2025-10-22)](https://twitter-thread.com/t/1981185084318200033)
 - [The single biggest factor that shapes the success of a junior trader (2025-10-29)](https://twitter-thread.com/t/1983502257741087022)
 - [Common reason why relative value vol traders blow up (2025-12-06)](https://twitter-thread.com/t/1997431186394579324)
+- [Delta hedging tail options (2026-01-09)](https://twitter-thread.com/t/2009599138124468457)
 
 ## Podcasts
 
-- https://open.spotify.com/episode/1l1t2kVPFiFn3bvYr8fVH2
-- https://open.spotify.com/episode/0ODP46ZNr7QDaMMp4SDtt4
-- https://open.spotify.com/episode/4hWaa63wrCih0Me7yyiZU9
-- https://open.spotify.com/episode/4lX9F0dgo6agWlHvoLdzL1
-- https://open.spotify.com/episode/2ed0ehQuIUvo6pGqHh92D6
-- https://open.spotify.com/episode/0s5PVxi4n5KTDYA71IZzpl
+- [Flirting with Models (S3E14): Kris Sidial - Long Volatility for the New Regime (2020-09-08)](https://open.spotify.com/episode/4lX9F0dgo6agWlHvoLdzL1)
+- [Mutiny Investing Podcast #22: Kris Sidial (2021-03-10)](https://open.spotify.com/episode/2ed0ehQuIUvo6pGqHh92D6)
+- [The Derivative: The Kid who Kaptures Kurtosis with Kris Sidial of Ambrus Group (2021-07-01)](https://open.spotify.com/episode/0ODP46ZNr7QDaMMp4SDtt4)
+- [Alpha Exchange: Kris Sidial, Co-CIO, The Ambrus Group (2021-12-23)](https://open.spotify.com/episode/1l1t2kVPFiFn3bvYr8fVH2)
+- [Mutiny Investing Podcast #30: Kris Sidial (2022-05-22)](https://open.spotify.com/episode/0s5PVxi4n5KTDYA71IZzpl)
+- [Chat With Traders #242: Kris Sidial - Volatility Shocks: Positioning for Convex Payouts (2022-09-13)](https://open.spotify.com/episode/4hWaa63wrCih0Me7yyiZU9)
