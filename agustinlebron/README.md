@@ -1,7 +1,9 @@
 # Agustin Lebron
 
 https://x.com/AgustinLebron3
+
 https://reducibleerrors.com
+
 https://www.amazon.com/Laws-Trading-Traders-Decision-Making-Everyone/dp/1119574218
 
 ## Threads
@@ -31,4 +33,3 @@ https://www.amazon.com/Laws-Trading-Traders-Decision-Making-Everyone/dp/11195742
 - https://open.spotify.com/episode/1DBAWGOBsWNdL8BQSxa1Fc
 - https://open.spotify.com/episode/6IuusvW7Tdr6EF4qPPPdBz
 - https://open.spotify.com/episode/7swMvI0pyFALXvb6JDISVj
-- 

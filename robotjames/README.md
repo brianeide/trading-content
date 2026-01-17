@@ -1,8 +1,11 @@
 # James Hodges (Robot James)
 
 https://x.com/therobotjames
+
 https://www.robotjames.blog
+
 https://substack.com/@robotjames
+
 https://robotwealth.com/author/jameshodges
 
 ## Threads

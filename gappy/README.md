@@ -1,6 +1,7 @@
 # Giuseppe Paleologo
 
 https://x.com/__paleologo
+
 https://linktr.ee/paleologo
 
 ## Threads
