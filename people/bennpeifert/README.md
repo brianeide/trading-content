@@ -89,8 +89,11 @@ https://threadreaderapp.com/user/bennpeifert
 ## Podcasts
 
 - [Flirting With Models (S2E2): Benn Eifert - Volatility Investing (2019-05-30)](https://open.spotify.com/episode/2hFNUgxmOICye9wAbfEb8t)
+- [Odd Lots: How An Exotic Investment Product Sold In Korea Could Create Havoc In The U.S. Options Market (2020-01-20)](https://open.spotify.com/episode/4yJqfqJICpsdqU9d7hezfm)
 - [Alpha Exchange: Benn Eifert, Founder and CIO, QVR Advisors (2020-03-30)](https://open.spotify.com/episode/5sYOQxS2aISG4aDpD3umem)
+- [Odd Lots: Here's What's Happening With Those Korean Structured Notes That Bet Against Market Volatility (2020-04-09)](https://open.spotify.com/episode/4ggIyrbclF9lW2k6tIe7jD)
 - [Flirting with Models (S3E3): Dr. Benn Eifert - Bad Ideas (2020-07-06)](https://open.spotify.com/episode/3xBRY2T6whzwmO4YXzgR37)
+- [Odd Lots: How SoftBank And Robinhooders Added Fuel To The Stock Market Boom (2020-09-14)](https://open.spotify.com/episode/69Ffyw01ePxKCHLXeUCPO8)
 - [Mutiny Investing Podcast #20: Benn Eifert (2021-01-14)](https://open.spotify.com/episode/5HLULmjAHjzu9Ql1y6FQcU)
 - [Alpha Exchange: Benn Eifert, Founder and CIO, QVR Advisors (2021-02-01)](https://open.spotify.com/episode/61cIWKYC7ggZTF1GaoPrZY)
 - [Odd Lots: Benn Eifert Explains How Retail Trading Is Rocking Markets like Never Before (2021-02-03)](https://open.spotify.com/episode/126OS14LN5g4XmreIsOnsm)
@@ -99,7 +102,9 @@ https://threadreaderapp.com/user/bennpeifert
 - [Benn Eifert On The Mania That Was Even Bigger Than Meme Stocks (2022-08-01)](https://open.spotify.com/episode/0PT4Q1eyxmEhHGG7vdlPne)
 - [The Derivative: There's no Stupid Options questions, just Stupid Options Courses, SurgiFi attends Benn Eifert's Class (2022-08-23)](https://open.spotify.com/episode/5sYPjDACy2CVeMNiP5jolm)
 - [Monetary Matters with Jack Farley: Trading Skill Isn't Enough to Run a Hedge Fund | Benn Eifert of QVR Advisors (2025-01-21)](https://open.spotify.com/episode/7keCl5Jn5xKjK40GCLYYFe)
+- [Odd Lots: This Is How Derivatives Trading Swallowed the Entire Market (2025-02-17)](https://open.spotify.com/episode/4gsjNVOMLopSoN1m7U11yT)
 - [Forward Guidance: Volatility Hedge Fund Manager Unpacks Derivatives Misconceptions | Benn Eifert (2025-02-20)](https://open.spotify.com/episode/2Ckbm6lAUPpo45I8kbvbLV)
 - [Monetary Matters with Jack Farley: Trump's War on Markets | Benn Eifert on Volatility, Tariffs, and Growth of Derivatives-Embedded ETFs (2025-04-05)](https://open.spotify.com/episode/2JHY16mZUSb1ot0PZAYpdx)
+- [Odd Lots: Lots More on How TikTok Options Traders Got Quiet (2025-04-26)](https://open.spotify.com/episode/1UO2eWfyPdEdplGd85h79z)
 - [Top Traders Unplugged UGO03: This Isn't 2008. That's the Problem ft. Benn Eifert (2025-06-11)](https://open.spotify.com/episode/3dfjtJzzDcWTEZmtNNmnVn)
 - [Alpha Exchange: Benn Eifert, Founder and CIO, QVR Advisors (2025-06-30)](https://open.spotify.com/episode/6yYwCq6KreKMtEi4BaWuCg)

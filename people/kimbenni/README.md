@@ -10,5 +10,6 @@ https://x.com/BenniKim
 - [Trading lore - The big short (2025-12-02)](https://twitter-thread.com/t/1995842316293083455)
 - [Trading lore - Katanga business (2025-12-04)](https://twitter-thread.com/t/1996661301393691065)
 - [Trading lore - Babylon (2025-12-05)](https://twitter-thread.com/t/1997013970457121278)
+- [Trading lore - Body of Lies (2025-12-10)](https://twitter-thread.com/t/1998667312526696474)
 - [Trading lore - The Nile Hotel Incident (2025-12-19)](https://twitter-thread.com/t/2002053518367006951)
 - [Trading lore - The Constant Gardeners (2025-12-20)](https://twitter-thread.com/t/2002347688604397706)

@@ -22,3 +22,5 @@ https://x.com/chameleon_jeff
 ## Podcasts
 
 - [Flirting with Models (S6E2): Jeff Yan - High Frequency Crypto Market Making & the Hyperliquid Exchange (2023-05-08)](https://open.spotify.com/episode/4SQVVAFF1ylRo4jcqj7xto)
+- [When Shift Happens (E95): Hyperliquid Founder - How to Win in Crypto (by Building for Users, Not VCs) (2024-11-08)](https://open.spotify.com/episode/3ZgzsFm6TPUzz5tRvd5WRi)
+- [TBPN: Jeff Yan @ 01:31:02 (2025-10-22)](https://open.spotify.com/episode/3WWdCqXeBBwtS7bQtXB2gl)
